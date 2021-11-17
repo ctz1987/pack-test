@@ -1,5 +1,5 @@
 {
-    "name": "pack/test",
+    "name": "ctz_pack/test",
     "description": "pack test",
     "type": "library",
     "require": {
