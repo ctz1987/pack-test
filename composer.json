@@ -1,5 +1,5 @@
 {
-    "name": "ctzpack/testcomposer",
+    "name": "ctzpack/firsttestcomposer",
     "description": "pack test",
     "type": "library",
     "require": {
